@@ -4,5 +4,5 @@
 
 3. mkdir -p folder1/folder2/folder3  -------------- create for nested directory .
 
-or mkdir -p A/B/C/D/E
+                              or  mkdir -p A/B/C/D/E
 

@@ -1,0 +1,14 @@
+
+--- what is devops ?
+
+       ###DevOps is a way of working that emphasizes rapid, incremental and continuous delivery of products
+
+
+------- why devops is important ?
+
+
+	#### DevOps is important because it is a software development and operations approach that enables rapid development of new products and easy maintenance of existing deployments.
+
+
+
+
