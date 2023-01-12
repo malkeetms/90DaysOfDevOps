@@ -1,0 +1,8 @@
+1. pwd ---------------- use this command for your present work directory 
+
+2. ls -a --------------- command use for shows the all files & folder & hidden folder & files also .
+
+3. mkdir -p folder1/folder2/folder3  -------------- create for nested directory .
+
+or mkdir -p A/B/C/D/E
+
