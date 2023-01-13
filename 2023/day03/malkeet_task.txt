@@ -1,0 +1,77 @@
+ 1. To view what's written in a filei
+i ?
+
+        # use the --cat-- command to  view what's written in the file .
+------------------------------------------------------------------------------------------
+
+        2. To change the access permissions of file /
+
+        # chmod 777  to change the access permissions of files.
+
+------------------------------------------------------------------------------------------
+
+        3. To check which commands you have run till now
+
+        #  history command use to check which command you have run till now.
+
+-----------------------------------------------------------------------------------------
+
+        4. To remove a directory /folder
+
+        # rmdir remove blank directory rm-rf to remove forcefully
+
+----------------------------------------------------------------------------------------
+
+        5. To create a fruits.txt file and view the content .
+
+        # .........touch fruits.txt..........
+        # ......... cat fruits.txt ..........
+
+--------------------------------------------------------------------------------------
+
+
+
+6. Add content in devops.txt (one in each line ) Apple , Mango , Banana , Cherry , Kiwi , Orange , Gauva .
+
+# vim devops.txt
+Apple
+            Mango
+Banana
+Cherry
+Kiwi
+Orange
+Gauva
+--------------------------------------------------------------------------------------
+
+7. To show only top three fruits from the file
+
+# head -3 devops.txt
+
+
+
+8. To show only bottom three fruits from the file .
+
+# tail -3 devops.txt
+
+9. To create another file color.txt and to view the content
+
+# touch color.txt
+
+
+10. Add content in the color.txt (one in each line ) - Red , Pink , white , Black , Blue , Orange , Purple , Grey .
+
+
+# vim color.txt
+
+Red
+Pink
+White
+Black
+Blue
+Orange
+Purple
+Grey
+
+
+11. To find the diffrence between fruits.txt and colors.txt file .
+
